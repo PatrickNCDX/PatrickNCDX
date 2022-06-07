@@ -7,8 +7,8 @@
   <br>
   
   ## 📠 Pour me contacter:
-  <a href="https://linkedin.com/in/NCDX"><img align="left" src="images/linkedin.png" alt="Patrick Nicodex | LinkedIn" width="31px"/></a>
-  <a href="mailto:patricknicodex@gmail.com"><img align="left" src="images/email.png" alt="Patrick Nicodex | email" width="31px"/></a>
+  <a href="https://linkedin.com/in/NCDX"><img align="left" src="images/linkedin.png" alt="Patrick Nicodex | LinkedIn" width="30px"/></a>
+  <a href="mailto:patricknicodex@gmail.com"><img align="left" src="images/email.png" alt="Patrick Nicodex | Email" width="30px"/></a>
   <br>
 
   ## 🦾 Compétences techniques:
