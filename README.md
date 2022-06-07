@@ -1,5 +1,4 @@
-<h3 align="center"> Salutation!!!  
-  <br> Je suis, Patrick Nicodex!</h3>
+<h3 align="center"> Salutation!!!  Je suis, Patrick Nicodex!</h3>
   <h2 align='center' >Développeur Full Stack 💻</h2>
   
   Je suis un grand passionné du numérique qui aime tout autant crée des choses grâce à un ordinateur qu'avec les mains et les outils numériques actuel. Je considère que chaque problème à une solution et qu'il ne faut jamais baisser les bras !
