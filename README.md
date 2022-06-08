@@ -2,7 +2,8 @@
 <br> Je suis, Patrick Nicodex!</h1>
 <h2 align='center' >Développeur Full Stack 💻</h2>
   
- Je suis un grand passionné du numérique qui aime tout autant crée des choses grâce à un ordinateur qu'avec mes mains et les outils numériques actuel. Je considère que chaque problème à une solution et qu'il ne faut jamais baisser les bras !
+ Je suis un grand passionné du numérique qui aime tout autant crée des choses grâce à un ordinateur qu'avec mes mains et les outils numériques actuel. 
+  <br> Je considère que chaque problème à une solution et qu'il ne faut jamais baisser les bras !
   <br> Éternel curieux j'adore découvrir et apprendre de nouvelles choses.
   <br>
   
